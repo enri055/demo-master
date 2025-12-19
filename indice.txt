@@ -1,2 +1,7 @@
 Este el fichero que he añadido
 Este es el cambio que he hecho
+ Desarrollo
+ Test unitarios
+
+ Revisión de código
+ Test manual
